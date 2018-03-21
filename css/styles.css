@@ -6,6 +6,23 @@
  * Site header
  */
 
+ #Luxury-title {
+   color: White;
+   font-size: 40px;
+   font-family: 'Lobster', cursive;
+ }
+#Intro-para{
+  font-family: 'Anton', sans-serif;
+}
+#Antalya{
+  color: White;
+  font-size: 40px;
+  font-family: 'Lobster', cursive
+
+}
+#Titanic{
+  font-family: 'Anton', sans-serif;
+}
 .site-header {
     background-color: lightblue;
 }
@@ -27,8 +44,8 @@
  * Start all rules with .section-wishlist
  */
 
-.section-wishlist {
-    background-color: lightgreen;
+.section-Hotels {
+    background-color: lightblue;
 }
 
 /**
@@ -38,7 +55,7 @@
  */
 
 .section-gallery {
-    background-color: lightseagreen;
+    background-color: lightblue;
 }
 
 /**
@@ -48,7 +65,7 @@
  */
 
 .section-about {
-    background-color: lightgoldenrodyellow;
+    background-color: lightblue;
 }
 
 /**
